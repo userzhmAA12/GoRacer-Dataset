@@ -1,21 +1,21 @@
 # Basic Information of Selected Projects
 
-| Project       | Size (KLOC) | Description                                                |
-|---------------|-------------|------------------------------------------------------------|
-| act           | 17          | GitHub local execution tool                                |
-| AdGuardHome   | 43          | Privacy protection center                                  |
-| alist         | 40          | File listing program supporting multiple storage backends |
-| caddy         | 44          | Cross-platform web server                                  |
-| clash         | 21          | Rule-based network tunneling tool                          |
-| Cloudreve     | 42          | Cloud storage system supporting multiple cloud providers   |
-| compose       | 20          | Tool for running multi-container applications              |
-| croc          | 4           | Lightweight file transfer tool                             |
-| GoFrame       | 172         | Modular development framework                              |
-| gitea         | 259         | Self-hosted Git service platform                           |
-| gost          | 23          | Network security tunneling tool                            |
-| photoprism    | 141         | AI-powered photo software                                  |
-| rclone        | 210         | Tool for syncing cloud files                               |
-| v2ray         | 89          | Network protocol platform                                  |
+| Project       | Size (KLOC) | Description                                                | Link
+|---------------|-------------|------------------------------------------------------------|--------------------------------------|
+| act           | 17          | GitHub local execution tool                                | [act](https://github.com/nektos/act) |
+| AdGuardHome   | 43          | Privacy protection center                                  | [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) |
+| alist         | 40          | File listing program supporting multiple storage backends  | [alist](https://github.com/alist-org/alist) | 
+| caddy         | 44          | Cross-platform web server                                  | [caddy](https://github.com/caddyserver/caddy) |
+| clash         | 21          | Rule-based network tunneling tool                          | [clash](https://github.com/Dreamacro/clash) |
+| Cloudreve     | 42          | Cloud storage system supporting multiple cloud providers   | [Cloudreve](https://github.com/cloudreve/Cloudreve) |
+| compose       | 20          | Tool for running multi-container applications              | [compose](https://github.com/docker/compose) |
+| croc          | 4           | Lightweight file transfer tool                             | [croc](https://github.com/schollz/croc) |
+| GoFrame       | 172         | Modular development framework                              | [GoFrame](https://github.com/gogf/gf) |
+| gitea         | 259         | Self-hosted Git service platform                           | [gitea](https://github.com/go-gitea/gitea) |
+| gost          | 23          | Network security tunneling tool                            | [gost](https://github.com/ginuerzh/gost) |
+| photoprism    | 141         | AI-powered photo software                                  | [photoprism](https://github.com/photoprism/photoprism) |
+| rclone        | 210         | Tool for syncing cloud files                               | [rclone](https://github.com/rclone/rclone) |
+| v2ray         | 89          | Network protocol platform                                  | [v2ray](https://github.com/v2fly/v2ray-core) |
 
 # Real project defect reports that have been confirmed by developers
 
